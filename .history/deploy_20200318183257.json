@@ -52,7 +52,7 @@
         "GitHubToken": {
             "NoEcho": true,
             "Type": "String",
-            "Description": "4d0350928858777623be3216d9d4421feb74b56b"
+            "Description": "5683124a886c7d2b5bc87f30e98d56fb7757bd77"
         }
     },
     "Resources": {
