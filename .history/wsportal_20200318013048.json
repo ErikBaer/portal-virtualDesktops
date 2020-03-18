@@ -19,12 +19,12 @@
         "PortalEmail": {
             "Type": "String",
             "Description": "Address from which emails will be sent from to approvers.",
-            "Default": "erik.baer@yahoo.de"
+            "Default": "e_baer@hotmail.com"
         },
         "ApproverEmail": {
             "Type": "String",
             "Description": "Email address that will receive WorkSpace Creation approval requests.",
-            "Default":"erik.baer@yahoo.de"
+            "Default": "e_baer@hotmail.com"
         },
         "DirectoryServicesId": {
             "Type": "String",
@@ -435,7 +435,7 @@
                         }
                     }
                 },
-                "Description": "Approval API",
+                "Description": "Approval   API",
                 "Name": "approvalResponderAPI"
             }
         },
